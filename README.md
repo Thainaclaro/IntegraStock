@@ -20,4 +20,4 @@ Aplicativo de controle de estoque com interface moderna usando **Python** e **Cu
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/Thainaclaro/IntegraStock
